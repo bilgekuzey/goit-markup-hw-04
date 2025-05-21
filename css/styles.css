@@ -410,7 +410,7 @@ ul,
   content: "";
   position: absolute;
   left: 0;
-  top: 44px;
+  margin-top: 44px;
   background-color: #404bbf;
   border-radius: 2px;
   width: 100%;
