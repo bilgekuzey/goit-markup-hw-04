@@ -108,7 +108,7 @@ ul,
 
 .section3_item {
   background-color: #fff;
-  height: 380px;
+  height: 428px;
   width: 264px;
 }
 
@@ -132,8 +132,6 @@ ul,
 .section3_item_text {
   color: #434455;
   line-height: 1.5;
-  padding: 0;
-  margin: 0;
 }
 
 .section3_header {
@@ -284,7 +282,7 @@ ul,
   padding: 0 16px;
 }
 
-.team-icon-item > li {
+.team-icon-link {
   display: flex;
   align-items: center;
   justify-content: center;
